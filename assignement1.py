@@ -15,5 +15,9 @@ def test_pandas():
     df = pd.read_csv('MOCK_DATA.csv')
     assert len(df) == 1000
 
+def test_pandas2():
+    df = pd.read_csv('MOCK_DATA.csv')
+    assert len(df) == 1000
+
 if __name__ == '__main__':
     test_pandas()
