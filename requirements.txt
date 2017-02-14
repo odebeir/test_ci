@@ -1,2 +1,9 @@
 numpy
 pandas
+ipython
+runipy
+nose
+scikit-image
+matplotlib
+bokeh
+future
